@@ -18,10 +18,6 @@ public class RetailItemTest {
     
         
     public static void main(String[] args){
-        
-        String s = "university";
-        s = s.replace("i", "ABC");
-        System.out.println(s);
       
         //Scanner to get user input when necessary
         Scanner input = new Scanner(System.in);
